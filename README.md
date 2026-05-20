@@ -1,1 +1,1 @@
-# public
+Dumb scripts, enjoy :)
